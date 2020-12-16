@@ -1,11 +1,7 @@
 # coding: utf-8
 
-#!/usr/bin/env python
-# coding: utf-8
-
 import cv2, numpy as np, matplotlib.pyplot as plt
 import glob, os
-
 
 # # Get images path
 IMG_NAME = 'boat'

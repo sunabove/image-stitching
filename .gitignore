@@ -2,3 +2,7 @@
 .DS_Store
 imgs/boat/result.jpg
 imgs/boat/result_crop.jpg
+/.idea
+/result
+/imgs/boat/result_crop.jpg
+/imgs/boat/result.jpg
