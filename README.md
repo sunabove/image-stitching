@@ -11,7 +11,7 @@ Crop result
 
 ## Dependency
 
-- Python 3
+- Python 3 
 - OpenCV 4+
 - numpy
 - matplotlib
